@@ -32,7 +32,7 @@ client.gif('akko').then(i => console.log(i));
 Javascript:
 
 ```js
-const { WeebyAPI} = require('node-weeby')
+const { WeebyAPI } = require('node-weeby')
 
 const client = new WeebyAPI({ token: 'YOUR_TOKEN' });
 
