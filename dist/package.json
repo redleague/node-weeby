@@ -1,6 +1,6 @@
 {
     "name": "node-weeby",
-    "version": "1.0.0",
+    "version": "1.1.1",
     "description": "Wrapper for Weeby-API",
     "main": "dist/index.js",
     "types": "dist/index.d.ts",
@@ -12,7 +12,7 @@
     },
     "repository": {
         "type": "git",
-        "url": "git+https://github.com/red-league/node-weeby.git"
+        "url": "git+https://github.com/redleague/node-weeby.git"
     },
     "keywords": [
         "api",
@@ -24,9 +24,9 @@
     "author": "inhydrox <Rajat Mishra>",
     "license": "MIT",
     "bugs": {
-        "url": "https://github.com/red-league/node-weeby/issues"
+        "url": "https://github.com/redleague/node-weeby/issues"
     },
-    "homepage": "https://github.com/red-league/node-weeby#readme",
+    "homepage": "https://github.com/redleague/node-weeby#readme",
     "devDependencies": {
         "@types/node": "^14.11.8",
         "typescript": "^4.0.3"
