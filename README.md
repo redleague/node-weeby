@@ -1,6 +1,8 @@
 # node-weeby
 Node.js wrapper for [Weeby API](https://weebyapi.ntmnathan.com/), developed by [Red League](https://github.com/redleague) on behalf of NTM Development.
 
+[![NPM](https://nodei.co/npm/node-weeby.png?downloads=true&downloadRank=true&stars=true)](https://nodei.co/npm/node-weeby/)
+
 ## Getting Started
 Installing with NPM.
 ```js
