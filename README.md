@@ -9,6 +9,9 @@ Installing with NPM.
 npm install node-weeby --save
 ```
 
+## Support
+Found an issue while using this wrapper or have suggestions? Feel free to join the [Red League](https://discord.gg/HCjEmNpp8t) Discord Server, send a bug report or a pull request.
+
 ## Authentication
 `node-weeby` requires an authorization token which will have to be obtained on the [NTM Discord](https://weebyapi.ntmnathan.com/discord) Server by messaging the Weeby API Bot. Please read more about this on the [Weeby API Website](https://weebyapi.ntmnathan.com/).
 
@@ -47,9 +50,6 @@ console.log(pat)
 /* with promise */
 client.gif('akko').then(i => console.log(i));
 ```
-
-## Support
-Found an issue while using this wrapper or have suggestions? Feel free to join the [Red League](https://discord.gg/P6gV4wX9sG) Discord Server, send a bug report or a pull request.
 
 ## Functions
 
