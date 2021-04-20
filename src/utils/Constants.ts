@@ -1,1 +1,1 @@
-export const baseURL: string = "https://weebyapi.ntmnathan.com";
+export const baseURL: string = "https://weebyapi.xyz";
