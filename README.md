@@ -6,7 +6,7 @@ Node.js wrapper for [Weeby API](https://weebyapi.ntmnathan.com/), developed by [
 ## Getting Started
 Installing with NPM.
 ```js
-npm install node-weeby --save
+npm install redleague/node-weeby#dev
 ```
 
 ## Support
